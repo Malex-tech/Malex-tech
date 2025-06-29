@@ -1,6 +1,6 @@
 # 👋🏽 Hi, I’m Alex Alexander
 
-Welcome to my GitHub! I’m a Junior Web Developer and IT Specialist based in Lagos, Nigeria. Currently enrolled in the **ALX Backend Software Engineering Program**, I’m learning how to build robust, secure, and scalable server-side applications. I started this journey because I’m passionate about solving problems with technology, and I’m constantly inspired by the potential of the web to change lives.
+I'm a **Hybrid Tech Professional** from **Lagos, Nigeria** — currently on a transformative journey through the **ALX Front End Web Development, Backend Software Engineering Program and Data Science**. My mission? To build tech that solves real problems, scales across industries, and uplifts communities.  
 
 ---
 
@@ -17,12 +17,18 @@ Welcome to my GitHub! I’m a Junior Web Developer and IT Specialist based in La
 ## 🧠 Professional Experience
 
 - **IT Specialist**  
-  GSC Sunti & AgriPalm Ltd – Deployed and managed Starlink satellite internet systems in rural regions, provided Tier 1/2 support, and maintained internal infrastructure.
-
+  GSC Sunti & AgriPalm Ltd
+– Designed and deployed **Starlink satellite internet** for rural business operations  
+- Provided Tier 1/2 support and managed internal infrastructure  
+- Maintained uptime and optimised connectivity for field teams
+   
 - **Virtual Assistant & Site IT Officer**  
-  Managed business operations remotely, troubleshoot technical issues, and automated tasks using custom shell scripts.
+ Remotely managed business systems and day-to-day operations  
+- Automated routine tasks using Bash/Python scripts  
+- Provided tech support and system updates with clear documentation  
 
-- **Transferable Skills**: Communication, Empathy, Attention to Detail, Documentation, Collaboration
+- **Transferable Skills**:
+- Communication, Empathy, Attention to Detail, Documentation, Collaboration
 
 ---
 
@@ -44,7 +50,9 @@ A collection of Bash/Python scripts used to diagnose issues and streamline suppo
 
 ## 🏆 Achievements & Certifications
 
-- 🎓 ALX Backend Software Engineering Program (Ongoing)
+- 🎓 Backend Software Engineering Program (Ongoing)
+- 🏅 Front End Web Development (Ongoing)
+- 🏅 DATA Science (Ongoing)
 - 🏅 Cisco Certified Network Associate (CCNA – In Progress)
 - 🌟 Virtual Assistant Training Certification
 - ✅ Successfully deployed Starlink networks for two organisations
